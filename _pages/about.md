@@ -22,7 +22,7 @@ Welcome to my personal website! I am a second-year undergrad majoring in Environ
 
 My research interests lie broadly in :
 - applying data science techniques（ML/DL） to solve climate and environmental problems
-- fine spatiotemporal distribution characteristics of motor vehicle pollutants and greenhouse gas emission
+- fine spatiotemporal distribution characteristics of motor vehicle emissions
 
 I am also open to other topics. Feel free to reach out if you would like to chat!
 
