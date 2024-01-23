@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yangmingkai Li"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Peking University"
+  bio              : "Undergraduate of Environmental Science, College of Urban and Environmental Science, Peking University"
   location         : "Beijing, China"
-  employer         : "Undergraduate of Environmental Science, College of Urban and Environmental Science"
+  employer         : 
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "lymk2139791@stu.pku.edu.cn"
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Cyrusly"
+  github           : "Cyrusly"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "http://linkedin.com/in/杨铭锴-李-5748482a7"
+  linkedin         : "杨铭锴-李-5748482a7"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -51,11 +51,11 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/liyangming97279"
+  twitter          : "liyangming97279"
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://www.youtube.com/@user-cx6tx2kc2r"
+  youtube          : "@user-cx6tx2kc2r"
   wikipedia        :
   CV               : 
 
