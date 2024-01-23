@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yangmingkai Li"
-description              : "（李杨铭锴）"
+description              : "Undergraduate of Environmental Science, College of Urban and Environmental Science, Peking University"
 repository               : "YangmingkaiLi-homepage.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yangmingkai Li"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Undergraduate of Environmental Science, College of Urban and Environmental Science, Peking University"
+  bio              : "（李杨铭锴）"
   location         : "Beijing, China"
   employer         : 
   pubmed           : 
