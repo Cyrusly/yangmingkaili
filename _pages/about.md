@@ -26,24 +26,24 @@ My research interests lie broadly in :
 
 I am also open to other topics. Feel free to reach out if you would like to chat!
 
-<span class='anchor' id='news'></span>
+<span class='anchor' id='-news'></span>
 
 # 🔥 News
 - *2024.01*: &nbsp;🎉🎉 Looking for summer research instructor. 
 - *2023.11*: &nbsp;💰💰 Receiving prize of "The First Prize of Peking University Scholarship"
 
-<span class='anchor' id='publications'></span>
+<span class='anchor' id='-publications'></span>
 
 # 📝 Publications 
 - Be in progress
 
-<span class='anchor' id='honors and awards'></span>
+<span class='anchor' id='-honors-and-awards'></span>
 
 # 🎖 Honors and Awards
 - *2023* The First Prize of Peking University Scholarship. 
 - *2023* Merit Student of Peking University. 
 
-<span class='anchor' id='educations'></span>
+<span class='anchor' id='-educations'></span>
 
 # 📖 Educations
 - *2022.09 - (now)*, B.S. Peking University, Environmental Science.
