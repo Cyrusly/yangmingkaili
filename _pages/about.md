@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<a href="#about-me">点击这里查看我的个人信息。</a>
 
 # 🧍‍♂️ Biography
 Welcome to my personal website! I am a second-year undergrad majoring in Environmental Science, Peking University.
